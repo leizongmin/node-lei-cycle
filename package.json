@@ -1,0 +1,27 @@
+{
+  "name": "lei-cycle",
+  "version": "1.0.0",
+  "description": "passed an array, cycle the array, returns an item every time",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -t 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leizongmin/node-lei-cycle.git"
+  },
+  "keywords": [
+    "cycle",
+    "array"
+  ],
+  "author": "Zongmin Lei <leizongmin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leizongmin/node-lei-cycle/issues"
+  },
+  "homepage": "https://github.com/leizongmin/node-lei-cycle",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
+  }
+}
