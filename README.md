@@ -1,6 +1,8 @@
 node-lei-cycle
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/leizongmin/node-lei-cycle.svg)](https://greenkeeper.io/)
+
 循环返回指定数组中的一个元素
 
 ```javascript
